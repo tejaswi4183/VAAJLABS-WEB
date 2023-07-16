@@ -1,0 +1,20 @@
+.container3{
+  padding:20px 0px;
+  background-color:white;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+.container3 h2{
+  font-size:45px;
+  
+  margin-bottom: 50px;
+  color:#333;
+  
+}
+.slider img{
+  border:1px solid #ffffff;
+  height:300px;
+
+  border-radius: 15px;;
+}
